@@ -19,7 +19,7 @@ This is a java application that users can make use of as a means to search for t
 4. Click on the "Search" button to start the search.
 5. The search results, including the file names and the metric of the occurrences of the term, will be displayed in the text area below. The results will be ranked from most occurrences to least 
 
-##Possible advancements in design
+## Possible advancements in design
 Something I would add to this program if given the chance would be firstly a better gui that allows for searching for files based of their time of creation and also size. this would help to weed out any files that may be duplictaes or older versions with the same terms/phrases used.
 To the search itself if given drastically more time i would love to add a feature alot like predictive messaging on a phone that will help users to quicly input their search needs and cut down on time spent by user looking instead of working on a project
 
